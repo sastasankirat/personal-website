@@ -7,7 +7,7 @@
 }
 
 :root {
-    --bg-color: #0d0d0d;
+    --bg-color: #000000;
     --second-bg-color: #161616;
     --text-color: #e5e5e5;
     --main-color: #3cff00;
@@ -841,7 +841,7 @@ details[open] {
         gap: 1rem;
     }
 
-    .logo{
+    .logo {
         display: none;
     }
 
@@ -899,7 +899,7 @@ details[open] {
         gap: 1rem;
     }
 
-    .logo{
+    .logo {
         display: none;
     }
 }
