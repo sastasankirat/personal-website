@@ -28,7 +28,6 @@ span {
     color: var(--main-color);
 }
 
-/* Home section */
 .header {
     position: fixed;
     top: 0;
@@ -838,8 +837,12 @@ details[open] {
 
     .navbar {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         gap: 1rem;
+    }
+
+    .logo{
+        display: none;
     }
 
     .home-content h1 {
@@ -888,5 +891,15 @@ details[open] {
     .service,
     .project {
         width: 100%;
+    }
+
+    .navbar {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+    }
+
+    .logo{
+        display: none;
     }
 }
