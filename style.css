@@ -334,8 +334,6 @@ details[open] {
     box-shadow: 0 0 50px var(--main-color);
 }
 
-/* Education section */
-
 .heading {
     font-size: 8rem;
     text-align: center;
@@ -425,9 +423,6 @@ details[open] {
     padding-left: 5rem;
 }
 
-
-/* Skill's section */
-
 .skills {
     padding: 100px 12%;
     background: var(--second-bg-color);
@@ -484,8 +479,6 @@ details[open] {
     transition: width 0.5s ease-in-out;
 }
 
-/* Services section */
-
 .services {
     padding: 100px 12%;
     background: var(--bg-color);
@@ -536,8 +529,6 @@ details[open] {
     color: var(--text-color-light);
     line-height: 1.6;
 }
-
-/* Projects section */
 
 .projects {
     padding: 100px 12%;
@@ -622,8 +613,6 @@ details[open] {
     line-height: 1.5;
 }
 
-/* Contacts section */
-
 .contact {
     padding: 100px 12%;
     background: var(--second-bg-color);
@@ -673,8 +662,6 @@ details[open] {
     background: var(--text-color);
     color: var(--main-color);
 }
-
-/* Testimonial section */
 
 .testimonials {
     padding: 100px 12%;
@@ -737,8 +724,6 @@ details[open] {
     color: var(--main-color);
 }
 
-/* Scrollbar */
-
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -773,7 +758,6 @@ details[open] {
     }
 }
 
-/* Responsive Design */
 @media (max-width: 1200px) {
     section {
         padding: 8rem 5%;
